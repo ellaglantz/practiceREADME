@@ -14,7 +14,8 @@
 
 # Proof of Planning 
 
-> Our Process of thinking went like: 
+> Our Process of thinking: 
+
 >> The starting class will include all objects. We will use constructors in order to allow the initialization for certain classes and their weights.
 >> We will gave 3 studentds with their own CVS files holding grades. The CVS files will be hardcoded with grades so that the user will only need to
 >> press a button to see the results for each student and the corresponding grades. The program will print out Student's Name, their class, and the
