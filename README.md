@@ -20,7 +20,8 @@
 >> We will gave 3 studentds with their own CVS files holding grades. The CVS files will be hardcoded with grades so that the user will only need to
 >> press a button to see the results for each student and the corresponding grades. The program will print out Student's Name, their class, and the
 >> grade they will recieve for that class.We will include 4 class types which will be intialzied with different constructors. These will each have
->> their own respective weights for each object Math, Science, Writing, Comp-sci
+>> their own respective weights for each object Math, Science, Writing, Comp-sci. The grades.cpp file holds all the necessary code for creating and using our user defined class. Then our header file, grades.h, stores the predefined functions. The header file contains the weights of the assignments. Then our main.cpp function is where we print information out and it holds a switch statement ???????
+
 
 
 > Below is an example of pseudocode for the Gradebook calculate function seen in our grades.cpp file:
