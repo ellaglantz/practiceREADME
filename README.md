@@ -96,19 +96,35 @@
 
 # Features of our Algorithm
 
-> what input can it take in'???
+> what input can it take in?
 
-> what is/are the output(s) you can receive back??????
+>> The csv files are hardcoded, which means in order to calculate your final grade for a class you would need to go into the csv file and alter the 
+>> grades. And, upon running the code this will use these hardcoded grades in the csv file and align them to the corresponding class. You need to
+>> make a gradebook for the user so that their name is valid. The input is dependent on the csv files because this will output the correlated final >> grade calculated with the weight. 
 
->'why was development like this important to your group?'?????
+> what is/are the output(s) you can receive back?
 
+>> The outputs you receive are the final grade for this student's class(s). It will output the students name, their class, and the grade for that
+>> class. 
+
+> Why was development like this important to your group?
+
+>> We felt hardcoding the csv files was the simplest yet most user-friendly way to possibly use this application for other people. Hardcoding the
+>> csv files is useful and efficient if there becomes a need to weight different possible grades. It is likely your grades could change for a class.
+>> Therefore, by hardcoding these csv files you can make changes as seen necessary. By using classes we are allowing for code reusability in an
+>> efficient way. 
 
 
 # instructions to compile our algorithm 
 
 > how to input data
 
-> how to compile each/any option from your feature set
+>> In order to input data you must create a gradebook for the student. This way the student's name is valid in our program. You will create csv files and hardcode the grades within each csv files which will align with the classes in our program. 
+
+> How to compile each/any option from your feature set:
+
+>> In order to compile type this:
+>>> `g++ main.cpp grades.cpp -o finalgrades && ./finalgrades`
 
 
 
