@@ -27,7 +27,7 @@
 > Below is an example of pseudocode for the Gradebook calculate function seen in our grades.cpp file:
 >
 `
-double Gradebook::calculate(std::string filename){
+//double Gradebook::calculate(std::string filename){
     //create sum variable
     
     //Open file for reading
