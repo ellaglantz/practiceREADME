@@ -6,7 +6,7 @@
 
 ## Summary
 
-##### Github repo address = ADD IN ADDRESS
+##### Github repo address:
 
 >https://github.com/js-uri/csc-212-fa22/blob/master/review_project/review_project.md
 
