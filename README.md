@@ -101,7 +101,7 @@ double Gradebook::calculate(std::string filename){
 
 >> The csv files are hardcoded, which means in order to calculate your final grade for a class you would need to go into the csv file and alter the 
 >> grades. And, upon running the code this will use these hardcoded grades in the csv file and align them to the corresponding class. You need to
->> make a gradebook for the user so that their name is valid. The input is dependent on the csv files because this will output the correlated final >> grade calculated with the weight. 
+>> make a gradebook for the user so that their name is valid. The input is dependent on the csv files because this will output the correlated final >>grade calculated with the weight. 
 
 > **what is/are the output(s) you can receive back**
 
