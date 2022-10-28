@@ -21,7 +21,7 @@
 >> press a button to see the results for each student and the corresponding grades. The program will print out student's name, their class, and the
 >> grade they will receive for that class.We will include 4 class types which will be initialized with different constructors. These will each have
 >> their own respective weights for each object Math, Science, Writing, Comp-sci. The grades.cpp file holds all the necessary code for creating and using our user defined class. Then our header file, grades.h, stores the predefined functions. The header file contains the weights of the 
->> assignments. Then our main.cpp function is where we print information out and it holds a switch statement ???????
+>> assignments. Then our main.cpp function is where we print information out and it holds a switch statement so our code is more efficient. 
 
 
 
